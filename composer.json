@@ -1,0 +1,15 @@
+{
+  "name": "example/phptest",
+  "description": "learning phpunit test",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "kevin gong",
+      "email": "haiven1989@126.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^7.3@dev"
+  }
+}
